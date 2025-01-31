@@ -2,8 +2,8 @@ from hummingbot.core.api_throttler.data_types import LinkedLimitWeightPair, Rate
 
 EXCHANGE_NAME = "gate_io_perpetual"
 DEFAULT_DOMAIN = ""
-HBOT_BROKER_ID = "hummingbot"
-HBOT_ORDER_ID = "t-HBOT"
+HBOT_BROKER_ID = ""
+HBOT_ORDER_ID = ""
 MAX_ID_LEN = 30
 
 REST_URL = "https://api.gateio.ws/api/v4"

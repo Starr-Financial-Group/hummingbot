@@ -4,7 +4,7 @@ from hummingbot.core.data_type.in_flight_order import OrderState
 # Init connector
 EXCHANGE_NAME = "okx_perpetual"
 REST_API_VERSION = "v5"
-HBOT_BROKER_ID = "Hummingbot"
+HBOT_BROKER_ID = ""
 CLIENT_ID_PREFIX = "93027a12dac34fBC"
 MAX_ID_LEN = 32
 
